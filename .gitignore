@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Ignore Data
+./data/processed_tweets.json
+
+# Ignore Models
+./model/nn/nn.pt
+./model/word2vec/word2vec.bin
