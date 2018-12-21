@@ -1,0 +1,15 @@
+# Install Pytorch
+# https://pytorch.org/
+
+# depends on platform and CUDA version 
+pip3 install http://download.pytorch.org/whl/cu92/torch-0.4.1-cp36-cp36m-linux_x86_64.whl --user
+pip3 install torchvision --user
+
+
+# Install nltk
+pip3 install nltk --user
+
+
+# Install gensim
+pip3 install gensim --user
+
